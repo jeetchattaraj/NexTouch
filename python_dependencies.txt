@@ -1,0 +1,12 @@
+opencv-python
+numpy
+cvzone
+mediapipe
+pynput
+pyautogui
+pycaw
+comtypes
+SpeechRecognition
+pyttsx3
+PyGetWindow
+PyAudio
